@@ -132,4 +132,4 @@ node_modules/
 
 # ui stuff
 
-ui/.next/
+ui/.next/test_functionality.py
